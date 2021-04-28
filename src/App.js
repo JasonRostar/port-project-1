@@ -44,7 +44,7 @@ render() {
       <br/>
       <div className="chart">
       <a href="https://github.com/JasonRostar">
-      <img src="http://ghchart.rshah.org/JasonRostar" alt="Github chart" />
+      <img className="chart-img" src="http://ghchart.rshah.org/JasonRostar" alt="Github chart" />
       </a>
       </div>
       <br/>
